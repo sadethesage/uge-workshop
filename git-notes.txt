@@ -1,0 +1,10 @@
+GIT COMMANDS
+
+git init -- initializes a git repository in the current directory
+git add -- moves file from working directory to staging area
+git commit -- moves file from staging area to commit. Commit is used to create a permanent record of changes to your repository. Commits are nodes with data.
+git status -- show the working tree status
+Git Head -- most recent commit.
+Git Checkout -- reassign the Head.
+git branch -- adds new label to the current commit. Creates a new branch you can switch to with:
+git checkout <branch name> -- switches to a different branch
