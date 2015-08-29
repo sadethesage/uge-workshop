@@ -1,0 +1,76 @@
+    1  ls
+    2  ls
+    3  pwd
+    4  cd
+    5  pwd
+    6  pwd
+    7  hist
+    8  his
+    9  less
+   10  history
+   11  history --less
+   12  q
+   13  history --less
+   14  history
+   15  history > cats.txt
+   16  ls
+   17  rm cats.txt
+   18  ls
+   19  mkdir catstest
+   20  ls
+   21  cd catstest
+   22  rmdir catstest
+   23  cd ..
+   24  rmdir catstest
+   25  ls
+   26  history
+   27  history -l
+   28  history --more
+   29  history --less
+   30  history
+   31  history -r
+   32  history
+   33  echo hi
+   34  $PATH
+   35  echo $PATH
+   36  > cattest.txt
+   37  ls
+   38  history > cattest.txt
+   39  ls
+   40  history
+   41  cd
+   42  ls
+   43  cd
+   44  cd ~
+   45  ls
+   46  mkdir examples
+   47  cd examples
+   48  history > myhistory.txt
+   49  cat myhistory.txt
+   50  subl myhistory.txt
+   51  subl
+   52  bsah subl
+   53  subl bash
+   54  subl -w
+   55  subl
+   56  subl myhistory.txt
+   57  history
+   58  history > myhistory.txt
+   59  history --less
+   60  less
+   61  less history
+   62  less --history
+   63  ls
+   64  ls
+   65  mkdir uge_workshop
+   66  ls
+   67  lsl
+   68  ls -l
+   69  ls
+   70  mv myhistory.txt ./uge-workshop/
+   71  mv myhistory.txt ./uge_workshop/
+   72  ls
+   73  cd uge_workshop
+   74  ls
+   75  pwd
+   76  history > my-history.txt
